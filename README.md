@@ -1,1 +1,1 @@
-# own-game-47
+# demosizepacman
